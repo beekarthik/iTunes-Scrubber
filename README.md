@@ -46,7 +46,7 @@ Should take <5 minutes. Requires MacOS 10.15 or later.
 
 ![Image of keyboard shortcut panel finished](img/finished.png)
 
-5. The keyboard shortcuts should work now, if they do not try restarting your computer, that generally seems to fix issues. 
+5. The keyboard shortcuts should work now, if they do not try restarting your computer, that generally seems to fix issues.
 
 ## Usage
 
@@ -60,4 +60,4 @@ After following the installation you will be able to do the following.
 
 ## Fun Stuff
 
-Applescript is pretty cool. Though I don't think one would use it for much other than fun Mac automations. It is very readable and that makes it easy to learn and work with. Looking through the documentation is a lot less painful when the code is basically English.
+Applescript is pretty cool. Though I don't think one would use it for much other than fun Mac automations, it is very readable and that makes it easy to learn and work with. Looking through the documentation is a lot less painful when the code is basically English.
